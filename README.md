@@ -15,6 +15,8 @@ Dataset/
 Proposed model/
 -It contains the code files for the proposed model.
 
+Requirements/
+
 # **Dataset Description**
 1) **Monkeypox Skin Lesion Dataset(MSLD)**:  Contains a total number of 228 images, among which 102 belongs to the 'Monkeypox' class and the remaining 126 represents the 'Others' class i.e., non-monkeypox (chickenpox and measles) cases.After augmentation, The classes 'Monkeypox' and 'Others' have 1428 and 1764 images, respectively.
 2) **Monkeypox Skin Image Dataset(MSID)**:  Contains a total number of 770 images, among which 107 belong to 'chickenpox' class, 91 to 'measles' , 279 to 'Monkeypox', 293 to 'Normal'
