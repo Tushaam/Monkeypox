@@ -1,0 +1,13 @@
+- numpy
+- pandas
+- scipy
+- seaborn
+- matplotlib
+- opencv-python
+- pillow
+- scikit-image
+- scikit-learn
+- torch
+- torchvision
+- tensorflow
+- keras
