@@ -1,0 +1,2 @@
+1) MSLD: https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset
+2) MSID: https://www.kaggle.com/datasets/dipuiucse/monkeypoxskinimagedataset
